@@ -1,2 +1,2 @@
 # hello-world
-First reop; getting my toes wet..
+Creating my first repo in a while; getting my toes wet again...
