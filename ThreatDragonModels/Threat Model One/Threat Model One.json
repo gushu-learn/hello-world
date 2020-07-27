@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat Model One",
+    "owner": "Daniel",
+    "description": "Threat Model Walk through"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Daniel"
+  }
+}
